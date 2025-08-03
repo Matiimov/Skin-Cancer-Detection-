@@ -34,6 +34,18 @@
 
 ---
 
+## 🖼️ Screenshots
+
+| Home Page | Upload Image |
+|-----------|---------------|
+| ![](screenshots/home.png) | ![](screenshots/UploadImage.png) |
+
+| Results (Classification + Segmentation) |
+|-----------------------------------------|
+| ![](screenshots/Results.png) |
+
+---
+
 ## 📦 Setup Instructions
 
 ### 1. Clone the repository
