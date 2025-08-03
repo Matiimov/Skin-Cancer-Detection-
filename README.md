@@ -38,7 +38,7 @@
 
 | Home Page | Upload Image |
 |-----------|---------------|
-| ![](screenshots/home.png) | ![](screenshots/UploadImage.png) |
+| ![](screenshots/Home.png) | ![](screenshots/UploadImage.png) |
 
 | Results (Classification + Segmentation) |
 |-----------------------------------------|
